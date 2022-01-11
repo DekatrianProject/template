@@ -1,0 +1,21 @@
+# For more information about the properties used in
+# this file, please see the EditorConfig documentation:
+# http://editorconfig.org/
+#
+# Make sure that you are using the best conventions from the language of this package. For example:
+#
+# https://google.github.io/styleguide/jsguide.html
+# http://www.php-fig.org/psr/psr-2/#overview
+# https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces
+# http://www.yaml.org/start.html
+# https://github.com/github/rubocop-github/blob/master/STYLEGUIDE.md
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
